@@ -2,8 +2,20 @@
 Scenery for Microsoft Flight Simulator 2004/X/Prepar3D
 Main Author: Florian Fermin
 
-## Source files
+## What is this?
 This repository contains source files from OryxSim Toronto Pearson, which was originally a payware scenery project for Microsoft Flight Simulator but due to personal reasons this sadly never made it to release. Despite numerous attempts by myself over the last years to bring the project to completion, its complexity and overwhelming nature have unfortunately led to me being unable to complete it. I'm publishing these files as I still wish that this project will be realized.
+
+## What can I do with these files?
+You can use the files to develop the scenery further. Please note th
+
+## Licensing.
+* Code in this repository is available under MIT license: https://opensource.org/licenses/MIT
+* Gmax scenes are available under the Attribution-NonCommercial-ShareAlike 2.0 Generic license https://creativecommons.org/licenses/by-nc-sa/2.0/
+* Textures are available as an external download. These too are available under the Attribution-NonCommercial-ShareAlike 2.0 Generic license https://creativecommons.org/licenses/by-nc-sa/2.0/
+
+
+## I would like to use part of this project
+That's fine by me, as long as it's a non-commercial endeavour. I'm generally
 
 ## What's in this repository.
 Note: As of 15 May 2019 there's nothing. I will do my best to post the stuff in the coming weeks. I need to come up with a way to organize it that makes sense.
