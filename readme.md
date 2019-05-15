@@ -20,7 +20,8 @@ Below is a list of software along with links that I recommend you install to ope
   * All other tools (MakeMDL, Resample) are included in both SDK's. Please be aware that their maybe some backwards compatibility issues particularly when trying to develop for FS2004/FSX.
 * Airport Design Editor (ADE): http://www.scruffyduck.org/airport-design-editor/4584106799
   * Note that ADE may be slow when editing the files. CYYZ is after all a massive airport.
-  * To line up with the Gmax lines Airport Studio was used, available from Flight1 at http://www.flight1.com/products.asp?product=apstv1
+  * To line up with the Gmax lines Airport Studio was used, available for purchase from Flight1 at http://www.flight1.com/products.asp?product=apstv1
+* GMax, available at https://www.turbosquid.com/gmax . Registration required.
 * ModelConverterX to convert models: https://www.scenerydesign.org/modelconverterx/
 * Library Creator XML to build libraries of objects: https://www.scenerydesign.org/library-creator-xml/
 * SBuilderX to edit SBP resample groundfile: https://www.ptsim.com/index.php/sbuilderx1
