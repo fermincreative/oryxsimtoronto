@@ -9,6 +9,9 @@ This repository contains source files from OryxSim Toronto Pearson, which was or
 ## What can I do with these files?
 You can use the files to develop the scenery further. Or use them as examples to develop your own project.
 
+## I don't understand what to do with some of these files.
+I'll be making a comprehensive wiki to try and explain as much as I can. See contact details below in case you need further guidance. 
+
 ## Licensing.
 * Code in this repository is available under MIT license: https://opensource.org/licenses/MIT
 * Gmax scenes are available under the Attribution-NonCommercial-ShareAlike 2.0 Generic license https://creativecommons.org/licenses/by-nc-sa/2.0/
