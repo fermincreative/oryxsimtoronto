@@ -1,0 +1,34 @@
+[Source]
+   Type = MultiSource
+   NumberOfSources = 2
+[Source1]
+   Type = BMP
+   Layer = Imagery
+   SourceDir = "."
+   SourceFile = "L17X73052X73116Y95620Y95673.BMP"
+   Channel_BlendMask = 2.0
+   NullValue = 255,255,255
+   SamplingMethod = Gaussian
+   ulyMap =  43.7036225
+   ulxMap = -79.6783447222222
+   xDim =  5.36441806891027E-06
+   yDim =  3.87979841820999E-06
+
+[Source2]
+   Type = BMP
+   Layer = None
+   SourceDir = "."
+   SourceFile = "L17X73052X73116Y95620Y95673_A.BMP"
+   SamplingMethod = Gaussian
+   ulyMap =  43.7036225
+   ulxMap = -79.6783447222222
+   xDim =  5.36441806891027E-06
+   yDim =  3.87979841820999E-06
+
+[Destination]
+   DestDir = "."
+   DestBaseFileName = "Photo01"
+   DestFileType = BGL
+   LOD = Auto
+   UseSourceDimensions = 1
+   CompressionQuality = 92
