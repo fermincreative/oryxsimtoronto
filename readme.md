@@ -6,7 +6,7 @@ Main Author: Florian Fermin
 This repository contains source files from OryxSim Toronto Pearson, which was originally a payware scenery project for Microsoft Flight Simulator but due to personal reasons this sadly never made it to release. Despite numerous attempts by myself over the last years to bring the project to completion, its complexity and overwhelming nature have unfortunately led to me being unable to complete it. I'm publishing these files as I still wish that this project will be realized.
 
 ## What can I do with these files?
-You can use the files to develop the scenery further. Please note th
+You can use the files to develop the scenery further. Or use them as examples to develop your own project.
 
 ## Licensing.
 * Code in this repository is available under MIT license: https://opensource.org/licenses/MIT
