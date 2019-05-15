@@ -35,8 +35,8 @@ As of right now the following things exist. Unfortunately a substantial amount o
 * ADE File that largely lines up with the Gmax lines.
 * SCASM runways, source code provided
 * Lightmasts
-* All buildings that existed in 2014/2015, only exception is the GateGourmet building infield. Some newer buildings (in the general aviation area in particular may be missing).
-  * Note that some buildings were developed externally and not by me. In those cases, the Gmax scenes are missing.
+* All buildings that existed in 2014/2015, only exception is the GateGourmet building infield. Some newer buildings (in the general aviation area in particular) may be missing.
+  * Note that some buildings were developed externally and not by me. In those cases, the Gmax scenes are missing but you'll find some other format present instead (3DS).
 * All terminals (1, 3, 3 satellite and infield)
 * Link train all the way to Viscount station
 * Petro Canada area.
