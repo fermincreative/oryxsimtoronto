@@ -1,0 +1,41 @@
+Header( 0 44.00 43.00 -80.00 -79.00 )
+LatRange( 43.00 44.00 )
+
+
+Area( 5 43.677222356 -79.630555362 12 )
+LayerCall( :drawStuff 52 ) ; main call, let's draw stuff
+Jump32( : ) ; finished now, get outta here
+
+:drawStuff
+Runway( 43.677234764 -79.640349695
+Alt 173.431; in meters
+Heading 136.32
+Length 7833.0 ; in feet
+Width 200 ; in feet
+Markers 00
+Lights 03
+Surface -1
+Threshold 00
+ThrOffN 0
+ThrOffF 0
+ExtN 0
+ExtF 0
+ThrLightsN 01
+AprLN 05
+StrobesN 4
+VasiBarsN 0
+VasiSpaceN 5
+VasiDistN 3800
+VasiSideN R155
+VasiSlopeN 3.0
+ThrLightsF 01
+AprLF 05
+StrobesF 3
+VasiBarsF 8
+VasiSpaceF 3
+VasiDistF 2420
+VasiSideF 155
+VasiSlopeF 3.0
+)
+Return
+EndA
