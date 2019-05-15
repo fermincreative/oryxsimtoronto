@@ -15,7 +15,9 @@ You can use the files to develop the scenery further. Please note th
 
 
 ## I would like to use part of this project
-That's fine by me, as long as it's a non-commercial endeavour. I'm generally
+That's fine by me, as long as it's a non-commercial endeavour. I'm generally fine with commercial use as well but decided to not license it in this manner to avoid the situation that someone publishes a commercial Toronto scenery out of this. My goal here is that if this project were to be completed it will be available as freeware.
+
+Should you wish to use parts (think taxilights and PAPI's or whatever components you might find useful) in another scenery I'm more than happy to license those parts of charge. However please get in touch to obtain explicit written permission so I know what's happening. For contact details see below. 
 
 ## What's in this repository.
 Note: As of 15 May 2019 there's nothing. I will do my best to post the stuff in the coming weeks. I need to come up with a way to organize it that makes sense.
