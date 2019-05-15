@@ -10,7 +10,22 @@ This repository contains source files from OryxSim Toronto Pearson, which was or
 You can use the files to develop the scenery further. Or use them as examples to develop your own project.
 
 ## I don't understand what to do with some of these files.
-I'll be making a comprehensive wiki to try and explain as much as I can. See contact details below in case you need further guidance. 
+I'll be making a comprehensive wiki to try and explain as much as I can. In addition, Readme files will point you to tools needed to open all files.
+Please see contact details below in case you need further guidance. I realize that this repository is very technical in nature, so I'm happy to help out. At the same time, in case it concerns basic questions, you may get a faster response from the fantastic FS developmer community at https://www.fsdeveloper.com/forum/ . They have an excellent wiki available as well at: https://www.fsdeveloper.com/wiki/index.php?title=Main_Page .
+
+### Recommended Software
+Below is a list of software along with links that I recommend you install to open all the files.
+* FSX SDK OR Prepar3D SDK tools. https://www.prepar3d.com/support/sdk/
+  * Note for Gmax files you need the FSX SDK found on the original FSX Deluxe DVD. I'll see if I can make them available in a more generic format. No promises!
+  * All other tools (MakeMDL, Resample) are included in both SDK's. Please be aware that their maybe some backwards compatibility issues particularly when trying to develop for FS2004/FSX.
+* Airport Design Editor (ADE): http://www.scruffyduck.org/airport-design-editor/4584106799
+  * Note that ADE may be slow when editing the files. CYYZ is after all a massive airport.
+  * To line up with the Gmax lines Airport Studio was used, available from Flight1 at http://www.flight1.com/products.asp?product=apstv1
+* ModelConverterX to convert models: https://www.scenerydesign.org/modelconverterx/
+* Library Creator XML to build libraries of objects: https://www.scenerydesign.org/library-creator-xml/
+* SBuilderX to edit SBP resample groundfile: https://www.ptsim.com/index.php/sbuilderx1
+* SCASM for runway lighting:  http://www.scasm.de/txt/download.htm
+
 
 ## Licensing.
 * Code in this repository is available under MIT license: https://opensource.org/licenses/MIT
