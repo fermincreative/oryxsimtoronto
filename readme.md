@@ -40,7 +40,8 @@ That's fine by me, as long as it's a non-commercial endeavour. I'm generally fin
 Should you wish to use parts (think taxilights and PAPI's or whatever components you might find useful) in another scenery I'm more than happy to license those parts of charge. However please get in touch to obtain explicit written permission so I know what's happening. For contact details see below.
 
 ## What's in this repository
-Note: As of 15 May 2019 there's nothing. I will do my best to post the stuff in the coming weeks. I need to come up with a way to organize it that makes sense.
+Status 18 May 2019: 
+* Most gmax scenes available. 
 
 ## Current state of the project
 As of right now the following things exist. Unfortunately a substantial amount of files from later development has been lost and I continue to look for them.
