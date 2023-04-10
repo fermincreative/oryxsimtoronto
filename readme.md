@@ -1,5 +1,5 @@
-## ORYXSIM TORONTO PEARSON
-Scenery for Microsoft Flight Simulator 2004/X/Prepar3D
+## ORYXSIM TORONTO PEARSON for MSFS
+Scenery for MSFS.
 
 Main Author: Florian Fermin
 
