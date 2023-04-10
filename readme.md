@@ -1,5 +1,6 @@
 ## ORYXSIM TORONTO PEARSON
 Scenery for Microsoft Flight Simulator 2004/X/Prepar3D
+Update 11 April 2023: Work is underway to convert this scenery to MSFS. 
 
 Main Author: Florian Fermin
 
